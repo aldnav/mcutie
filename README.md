@@ -8,6 +8,7 @@ MQTT recon app
 * Install [mosquitto](https://mosquitto.org/download/)
 * Project uses [pipenv](https://docs.pipenv.org/)
 ```sh
+git clone https://github.com/aldnav/mcutie.git
 cd mcutie
 pipenv install
 # other commands on the preview above
