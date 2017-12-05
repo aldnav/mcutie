@@ -7,7 +7,7 @@ def on_connect(client, userdata, flags, rc):
 
 
 def on_message(client, userdata, msg):
-    print('Topic: ', msg.topic, '\nMessage:', msg.payload)
+    print('[PONG] Topic: ', msg.topic, '\nMessage:', msg.payload)
 
 
 if __name__ == '__main__':
