@@ -13,3 +13,5 @@ cd mcutie
 pipenv install
 # other commands on the preview above
 ```
+**TODO**
+* Initial recon starts here https://github.com/hobbyquaker/awesome-mqtt
