@@ -15,3 +15,4 @@ pipenv install
 ```
 **TODO**
 * Initial recon starts here https://github.com/hobbyquaker/awesome-mqtt
+* Integrate a web client
